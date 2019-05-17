@@ -9,7 +9,7 @@
   <Identity
     Name="8400e1d4-597a-4f3a-9b94-6253a9d12c1e"
     Publisher="CN=shuhey"
-    Version="1.0.0.0" />
+    Version="1.0.2.0" />
 
   <Properties>
     <DisplayName>WpfCoreActionCenterAppPackage</DisplayName>
